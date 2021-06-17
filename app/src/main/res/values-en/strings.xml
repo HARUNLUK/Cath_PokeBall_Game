@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Catch Poke Ball</string>
+    <string name="score">Score</string>
+    <string name="Time">Time</string>
+    <string name="Play">Play</string>
+    <string name="Quit">Quit</string>
+</resources>

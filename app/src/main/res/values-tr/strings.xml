@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poke Topu Yakala</string>
+    <string name="score">Puan</string>
+    <string name="Time">Zaman</string>
+    <string name="Play">Oyna</string>
+    <string name="Quit">Çıkış</string>
+</resources>
